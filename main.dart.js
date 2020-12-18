@@ -45377,7 +45377,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.we.prototype={
-L:function(a,b){return new S.oz(new F.oN("X-ray Periodic Table",null),"xraypt 0.0.1",X.a2m(null,C.lS),null)}}
+L:function(a,b){return new S.oz(new F.oN("X-ray Periodic Table",null),"xraypt 0.0.2",X.a2m(null,C.lS),null)}}
 F.oN.prototype={
 aK:function(){return new F.wf(C.q)}}
 F.wf.prototype={
