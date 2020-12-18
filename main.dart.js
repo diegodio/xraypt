@@ -45377,7 +45377,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.we.prototype={
-L:function(a,b){return new S.oz(new F.oN("X-ray Periodic Table",null),"xraypt 0.0.2",X.a2m(null,C.lS),null)}}
+L:function(a,b){return new S.oz(new F.oN("X-ray Periodic Table",null),"xraypt 0.0.3",X.a2m(null,C.lS),null)}}
 F.oN.prototype={
 aK:function(){return new F.wf(C.q)}}
 F.wf.prototype={
@@ -45483,7 +45483,7 @@ h4=P.y(0,700)
 h5=$.m[1]
 h6=A.k(ak6,ak6,C.d,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,20,ak6,ak6,ak6,ak6,!0,ak6,ak6,ak6,ak6,ak6,ak6)
 h7=t.fQ
-h4=T.j(M.b(ak6,S.M(V.N(R.O(!1,!0,T.j(M.b(ak6,L.G(T.I(C.k,H.c([L.l("1",A.k(ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,10,ak6,ak6,ak6,ak6,!0,ak6,ak6,ak6,ak6,ak6,ak6)),T.j(T.J(10,L.l($.R[1],ak6),ak6,ak6,ak6,15,ak6,ak6),ak6,ak6)],h7),C.j),ak6,C.i,!0,h6,ak6,ak6,C.h),ak6,ak6,ak6,ak6,ak6,ak6),ak6,ak6),ak6,!0,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,new F.LR(ak5),C.l)),h5,!1,h4),ak6,ak6,ak6,ak6,ak6,ak6),ak6,ak6)
+h4=S.M(V.N(R.O(!1,!0,T.j(M.b(ak6,L.G(T.I(C.k,H.c([L.l("1",A.k(ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,10,ak6,ak6,ak6,ak6,!0,ak6,ak6,ak6,ak6,ak6,ak6)),T.j(T.J(10,L.l($.R[1],ak6),ak6,ak6,ak6,15,ak6,ak6),ak6,ak6)],h7),C.j),ak6,C.i,!0,h6,ak6,ak6,C.h),ak6,ak6,ak6,ak6,ak6,ak6),ak6,ak6),ak6,!0,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6,new F.LR(ak5),C.l)),h5,!1,h4)
 h5=M.b(ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6)
 h6=M.b(ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6)
 h8=M.b(ak6,ak6,ak6,ak6,ak6,ak6,ak6,ak6)
